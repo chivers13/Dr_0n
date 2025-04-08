@@ -1,0 +1,16 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: D:\Astapenko\Git\Dr_0n\Gerber\plated.drl
+Format: 4.4
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.2000		309
+ 2 		1.0160		40
+ 3 		1.1000		48
+ 4 		1.2000		18
+ 5 		2.7500		2
